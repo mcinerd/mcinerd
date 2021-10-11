@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mcinerd
+- 👋 Hi, I’m Declan.
 
 I'm new to programming and Github but am currently learning three.js and 3D development in my free time. 
 
